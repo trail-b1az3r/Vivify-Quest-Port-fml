@@ -25,3 +25,9 @@ No language composition data is currently available for this repository because 
 ## Notes
 
 This repository is a placeholder landing page for the project and can be expanded as development progresses.
+
+
+
+## CREDITS
+braxed
+trail-b1az3r
